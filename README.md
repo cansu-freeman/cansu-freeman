@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi.
 
 [![Repos Badge](https://badges.pufler.dev/repos/cansu-freeman)](https://badges.pufler.dev) 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/cansu-freeman)](https://badges.pufler.dev)
